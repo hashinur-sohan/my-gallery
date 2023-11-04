@@ -1,0 +1,9 @@
+.gallery-img{
+    margin-top: 20px;
+}
+
+
+.gallery-img img{
+    height: 100px;
+    width: 100px;
+}
